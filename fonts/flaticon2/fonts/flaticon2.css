@@ -1,0 +1,70 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 28/10/2020 06:47
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff2") format("woff2"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon-tshirt:before { content: "\f100"; }
+.flaticon-soccer-jersey:before { content: "\f101"; }
+.flaticon-sweater:before { content: "\f102"; }
+.flaticon-cardigan:before { content: "\f103"; }
+.flaticon-jersey-blazer:before { content: "\f104"; }
+.flaticon-pyjamas:before { content: "\f105"; }
+.flaticon-suit:before { content: "\f106"; }
+.flaticon-cloth:before { content: "\f107"; }
+.flaticon-shirt:before { content: "\f108"; }
+.flaticon-shirts:before { content: "\f109"; }
+.flaticon-sweatshirt:before { content: "\f10a"; }
+.flaticon-nightgown:before { content: "\f10b"; }
+.flaticon-sweater-1:before { content: "\f10c"; }
+.flaticon-bathrobe:before { content: "\f10d"; }
+.flaticon-dress:before { content: "\f10e"; }
+.flaticon-skirt:before { content: "\f10f"; }
+.flaticon-tunic:before { content: "\f110"; }
+.flaticon-sleeveless:before { content: "\f111"; }
+.flaticon-leggings:before { content: "\f112"; }
+.flaticon-gown-1:before { content: "\f113"; }
+.flaticon-carpet:before { content: "\f114"; }
+.flaticon-couch:before { content: "\f115"; }
+.flaticon-carpet-1:before { content: "\f116"; }
+.flaticon-cushion:before { content: "\f117"; }
+.flaticon-towel:before { content: "\f118"; }
+.flaticon-theater:before { content: "\f119"; }
+.flaticon-towels:before { content: "\f11a"; }
+.flaticon-jacket:before { content: "\f11b"; }
+.flaticon-shorts:before { content: "\f11c"; }
+.flaticon-tie:before { content: "\f11d"; }
+.flaticon-curtain:before { content: "\f11e"; }
+.flaticon-single-bed:before { content: "\f11f"; }
+.flaticon-blanket:before { content: "\f120"; }
+.flaticon-bride-dress:before { content: "\f121"; }
+.flaticon-hat:before { content: "\f122"; }
+.flaticon-cap:before { content: "\f123"; }
+.flaticon-trousers:before { content: "\f124"; }
+.flaticon-vest:before { content: "\f125"; }
